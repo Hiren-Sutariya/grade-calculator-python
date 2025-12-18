@@ -1,4 +1,4 @@
-# Python Grade Calculator 🐍
+# Python Grade Calculator 
 
 A beginner-friendly Python project that determines a student's grade based on their score using conditional logic.
 
