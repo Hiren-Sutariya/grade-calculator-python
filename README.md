@@ -58,4 +58,4 @@ It is designed to help beginners understand how decision-making works in Python.
 
 ## 👤 Author
 **Hiren Sutariya**  
-Python Developer 🐍  
+Python Developer  
